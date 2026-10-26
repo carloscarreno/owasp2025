@@ -8,7 +8,7 @@ https://github.com/WebGoat/WebGoat/releases/tag/v2023.8
     java -version
 
 ## Ejecuta en un terminal
-  java -jar webgoat-2023.4.jar --webgoat.port=8001 --webwolf.port=8002  
+  java -jar webgoat-2023.4.jar --webgoat.port=8080 --webwolf.port=8081  
 
 
 # Instalacion de Burpsuite v2023.10.3.4
