@@ -1,7 +1,7 @@
 # Instalacion de WebGoat v2023.8
 
 ## Descarga de WebGoat
-https://github.com/WebGoat/WebGoat/releases/tag/v2023.8
+https://github.com/WebGoat/WebGoat/releases/tag/v2023.4
 
 ## Ejecuta WebGoat
 ### Verifica requisitos
