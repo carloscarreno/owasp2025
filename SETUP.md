@@ -1,4 +1,4 @@
-# Instalacion de WebGoat v2023.8
+# Instalacion de WebGoat v2023.4
 
 ## Descarga de WebGoat
 https://github.com/WebGoat/WebGoat/releases/tag/v2023.4
